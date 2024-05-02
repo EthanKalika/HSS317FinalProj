@@ -1,0 +1,447 @@
+Unnamed: 0,Player,height,weight,collage,born,birth_city,birth_state
+1146,Mike Dunleavy,190.0,81.0,University of South Carolina,1954.0,Brooklyn,New York
+1359,Gerald Henderson,188.0,79.0,Virginia Commonwealth University,1956.0,Richmond,Virginia
+1406,Larry Drew,185.0,77.0,University of Missouri,1958.0,Kansas City,Kansas
+1507,Larry Nance,208.0,92.0,Clemson University,1959.0,Anderson,South Carolina
+1706,Michael Young,201.0,99.0,University of Houston,1961.0,Houston,Texas
+1994,Tim Hardaway,183.0,79.0,University of Texas at El Paso,1966.0,Chicago,Illinois
+2357,Glenn Robinson,201.0,102.0,Purdue University,1973.0,Gary,Indiana
+2535,Tim Duncan,211.0,113.0,Wake Forest University,1976.0,St. Croix,U.S. Virgin Islands
+2590,Vince Carter,198.0,99.0,University of North Carolina,1977.0,Daytona Beach,Florida
+2626,Dirk Nowitzki,213.0,111.0,,1978.0,Wurzburg,Germany
+2630,Paul Pierce,201.0,106.0,University of Kansas,1977.0,Oakland,California
+2700,Jason Terry,188.0,83.0,University of Arizona,1977.0,Seattle,Washington
+2717,Jamal Crawford,196.0,90.0,University of Michigan,1980.0,Seattle,Washington
+2793,Tyson Chandler,216.0,108.0,,1982.0,Hanford,California
+2808,Pau Gasol,213.0,113.0,,1980.0,Barcelona,Spain
+2815,Mike James,188.0,85.0,Duquesne University,1975.0,Copaigue,New York
+2816,Richard Jefferson,201.0,105.0,University of Arizona,1980.0,Los Angeles,California
+2817,Joe Johnson,201.0,90.0,University of Iowa,1947.0,Carthage,Mississippi
+2823,Tony Parker,188.0,83.0,,1982.0,Bruges,Belgium
+2825,Zach Randolph,206.0,117.0,Michigan State University,1981.0,Marion,Indiana
+2853,Caron Butler,201.0,103.0,University of Connecticut,1980.0,Racine,Wisconsin
+2860,Manu Ginobili,198.0,92.0,,1977.0,Bahia Blanca,Argentina
+2867,Nene Hilario,211.0,113.0,,1982.0,Sao Carlos,Brazil
+2907,Carmelo Anthony,203.0,108.0,Syracuse University,1984.0,New York,New York
+2909,Leandro Barbosa,190.0,87.0,,1982.0,San Paulo,Brazil
+2910,Matt Barnes,203.0,95.0,Providence College,1952.0,Providence,Rhode Island
+2916,Chris Bosh,211.0,106.0,Georgia Institute of Technology,1984.0,Dallas,Texas
+2939,Udonis Haslem,203.0,106.0,University of Florida,1980.0,Miami,Florida
+2944,LeBron James,203.0,113.0,,1984.0,Akron,Ohio
+2951,Kyle Korver,201.0,96.0,Creighton University,1981.0,Lakewood,California
+2957,Zaza Pachulia,211.0,122.0,,1984.0,Tbilisi,Georgia
+2970,Dwyane Wade,193.0,99.0,Marquette University,1982.0,Chicago,Illinois
+2972,David West,206.0,113.0,Xavier University,1980.0,Teaneck,New Jersey
+2974,Tony Allen,193.0,96.0,Oklahoma State University,1982.0,Chicago,Illinois
+2976,Trevor Ariza,203.0,97.0,"University of California, Los Angeles",1985.0,Miami,Florida
+2987,Nick Collison,208.0,115.0,University of Kansas,1980.0,Orange City,Iowa
+2989,Carlos Delfino,198.0,104.0,,1982.0,Santa Fe,Argentina
+2990,Luol Deng,206.0,99.0,Duke University,1985.0,Wow,South Sudan
+2998,Devin Harris,190.0,87.0,University of Wisconsin,1983.0,Milwaukee,Wisconsin
+3000,Dwight Howard,211.0,120.0,,1985.0,Atlanta,Georgia
+3002,Andre Iguodala,198.0,97.0,University of Arizona,1984.0,Springfield,Illinois
+3005,Al Jefferson,208.0,131.0,,1985.0,Monticello,Mississippi
+3012,Shaun Livingston,201.0,87.0,,1985.0,Peoria,Illinois
+3013,Kevin Martin,206.0,106.0,University of Cincinnati,1977.0,Saginaw,Michigan
+3014,Jameer Nelson,183.0,86.0,Saint Joseph's University,1982.0,Chester,Pennsylvania
+3016,Emeka Okafor,208.0,114.0,University of Connecticut,1982.0,Houston,Texas
+3025,J.R. Smith,188.0,86.0,,1920.0,,
+3026,Josh Smith,213.0,106.0,University of Southern Colorado,1944.0,Columbus,Mississippi
+3035,Beno Udrih,190.0,92.0,,1982.0,Celje,Slovenia
+3036,Anderson Varejao,208.0,123.0,,1982.0,Santa Teresa,Brazil
+3040,Damien Wilkins,208.0,99.0,Idaho State University,1960.0,Pocatello,Idaho
+3050,Andrew Bogut,213.0,117.0,University of Utah,1984.0,Melbourne,Australia
+3054,Jose Calderon,190.0,90.0,,1981.0,Villanueva de la Serena,Spain
+3057,Monta Ellis,190.0,83.0,,1985.0,Jackson,Mississippi
+3060,Raymond Felton,185.0,92.0,University of North Carolina,1984.0,Marion,South Carolina
+3063,Channing Frye,211.0,115.0,University of Arizona,1983.0,White Plains,New York
+3071,Gerald Green,201.0,92.0,,1986.0,Houston,Texas
+3078,Jarrett Jack,190.0,90.0,Georgia Institute of Technology,1983.0,Fort Washington,Maryland
+3080,Amir Johnson,206.0,108.0,,1987.0,Los Angeles,California
+3091,C.J. Miles,185.0,79.0,,1983.0,,
+3096,Chris Paul,183.0,79.0,Wake Forest University,1985.0,Winston-Salem,North Carolina
+3099,Ronnie Price,188.0,86.0,Utah Valley State College,1983.0,Friendswood,Texas
+3118,Martell Webster,216.0,102.0,Morgan State University,1952.0,Baltimore,Maryland
+3120,Deron Williams,190.0,90.0,University of Illinois at Urbana-Champaign,1984.0,Parkersburg,West Virginia
+3121,Lou Williams,206.0,90.0,Stetson University,1969.0,Ocala,Florida
+3122,Marvin Williams,185.0,89.0,University of Alabama,1982.0,Jackson,Mississippi
+3128,LaMarcus Aldridge,211.0,117.0,University of Texas at Austin,1985.0,Dallas,Texas
+3134,J.J. Barea,203.0,94.0,,1984.0,,
+3148,Jordan Farmar,188.0,81.0,"University of California, Los Angeles",1986.0,Los Angeles,California
+3152,Rudy Gay,203.0,104.0,University of Connecticut,1986.0,Brooklyn,New York
+3162,Ersan Ilyasova,208.0,106.0,,1987.0,Eskisehir,Turkey
+3167,Kyle Lowry,183.0,92.0,Villanova University,1986.0,Philadelphia,Pennsylvania
+3173,Paul Millsap,203.0,111.0,Louisiana Tech University,1985.0,Monroe,Louisiana
+3184,J.J. Redick,188.0,86.0,,1984.0,,
+3187,Rajon Rondo,185.0,84.0,University of Kentucky,1986.0,Louisville,Kentucky
+3189,Thabo Sefolosha,201.0,99.0,,1984.0,Vevey,Switzerland
+3197,P.J. Tucker,206.0,97.0,,1986.0,,
+3204,Arron Afflalo,196.0,95.0,"University of California, Los Angeles",1985.0,Los Angeles,California
+3209,Marco Belinelli,196.0,95.0,,1986.0,Bologna,Italy
+3210,Corey Brewer,206.0,84.0,University of Florida,1986.0,Portland,Tennessee
+3211,Aaron Brooks,183.0,73.0,University of Oregon,1985.0,Seattle,Washington
+3212,Wilson Chandler,203.0,102.0,DePaul University,1987.0,Benton Harbor,Michigan
+3213,Mike Conley,185.0,79.0,Ohio State University,1987.0,Fayetteville,Arkansas
+3219,Jared Dudley,201.0,102.0,Boston College,1985.0,San Diego,California
+3220,Kevin Durant,206.0,108.0,University of Texas at Austin,1988.0,Washington,District of Columbia
+3224,Marcin Gortat,211.0,108.0,,1984.0,Lodz,Poland
+3225,Aaron Gray,213.0,122.0,University of Pittsburgh,1984.0,Tarzana,California
+3226,Jeff Green,196.0,88.0,University of Maryland,1941.0,,
+3229,Spencer Hawes,216.0,111.0,University of Washington,1988.0,Seattle,Washington
+3230,Al Horford,208.0,111.0,University of Florida,1986.0,Puerto Plata,Dominican Republic
+3237,Ian Mahinmi,211.0,113.0,,1986.0,Rouen,France
+3239,Josh McRoberts,208.0,108.0,Duke University,1987.0,Indianapolis,Indiana
+3243,Joakim Noah,211.0,104.0,University of Florida,1985.0,New York,New York
+3251,Ramon Sessions,190.0,86.0,"University of Nevada, Reno",1986.0,Myrtle Beach,South Carolina
+3253,Jason Smith,211.0,113.0,Louisiana State University,1977.0,Atlanta,Georgia
+3260,C.J. Watson,211.0,117.0,,1984.0,,
+3263,Brandan Wright,211.0,102.0,"University of California, Los Angeles",1962.0,Hollywood,California
+3265,Nick Young,201.0,95.0,University of Southern California,1985.0,Los Angeles,California
+3266,Thaddeus Young,203.0,100.0,Georgia Institute of Technology,1988.0,New Orleans,Louisiana
+3267,Alexis Ajinca,218.0,112.0,,1988.0,Saint-Etienne,France
+3269,Ryan Anderson,208.0,108.0,University of California,1988.0,Sacramento,California
+3270,Darrell Arthur,206.0,106.0,University of Kansas,1988.0,Dallas,Texas
+3271,D.J. Augustin,206.0,106.0,,1988.0,,
+3272,Nicolas Batum,203.0,90.0,,1988.0,Lisieux,France
+3273,Jerryd Bayless,190.0,90.0,University of Arizona,1988.0,Phoenix,Arizona
+3274,Michael Beasley,206.0,106.0,Kansas State University,1989.0,Frederick,Maryland
+3275,Bobby Brown,193.0,92.0,Miami University,1923.0,Versailles,Ohio
+3276,Mario Chalmers,188.0,86.0,University of Kansas,1986.0,Anchorage,Alaska
+3280,Goran Dragic,190.0,86.0,,1986.0,Ljubljana,Slovenia
+3282,Danilo Gallinari,208.0,102.0,,1988.0,Sant'Angelo Lodigiano,Italy
+3283,Marc Gasol,216.0,115.0,,1985.0,Barcelona,Spain
+3285,Eric Gordon,193.0,97.0,Indiana University,1988.0,Indianapolis,Indiana
+3291,George Hill,190.0,85.0,Indiana University-Purdue University Indianapolis,1986.0,Indianapolis,Indiana
+3298,DeAndre Jordan,211.0,120.0,Texas A&M University,1988.0,Houston,Texas
+3299,Kosta Koufos,213.0,120.0,Ohio State University,1989.0,Canton,Ohio
+3301,Courtney Lee,196.0,90.0,Western Kentucky University,1985.0,Indianapolis,Indiana
+3302,Brook Lopez,213.0,124.0,Stanford University,1988.0,North Hollywood,California
+3303,Robin Lopez,213.0,115.0,Stanford University,1988.0,North Hollywood,California
+3304,Kevin Love,208.0,113.0,"University of California, Los Angeles",1988.0,Santa Monica,California
+3308,JaVale McGee,213.0,122.0,"University of Nevada, Reno",1988.0,Flint,Michigan
+3313,Derrick Rose,190.0,86.0,University of Memphis,1988.0,Chicago,Illinois
+3314,Brandon Rush,198.0,99.0,University of Kansas,1985.0,Kansas City,Missouri
+3317,Marreese Speights,208.0,115.0,University of Florida,1987.0,St. Petersburg,Florida
+3319,Jason Thompson,185.0,83.0,University of South Carolina,1946.0,New York,New York
+3320,Anthony Tolliver,203.0,108.0,Creighton University,1985.0,Springfield,Missouri
+3325,Russell Westbrook,190.0,90.0,"University of California, Los Angeles",1988.0,Long Beach,California
+3337,DeMarre Carroll,203.0,97.0,University of Missouri,1986.0,Birmingham,Alabama
+3338,Omri Casspi,206.0,102.0,,1988.0,Holon,Israel
+3340,Darren Collison,183.0,79.0,"University of California, Los Angeles",1987.0,Rancho Cucamonga,California
+3341,Dante Cunningham,203.0,104.0,Villanova University,1987.0,Clinton,Maryland
+3343,Stephen Curry,190.0,86.0,Davidson College,1988.0,Akron,Ohio
+3345,DeMar DeRozan,201.0,100.0,University of Southern California,1989.0,Compton,California
+3347,Wayne Ellington,193.0,90.0,University of North Carolina,1987.0,Wynnewood,Pennsylvania
+3348,Tyreke Evans,198.0,99.0,University of Memphis,1989.0,Chester,Pennsylvania
+3352,Taj Gibson,206.0,102.0,University of Southern California,1985.0,Brooklyn,New York
+3354,Danny Green,206.0,100.0,"University of California, Los Angeles",1957.0,Lynwood,California
+3357,James Harden,196.0,99.0,Arizona State University,1989.0,Los Angeles,California
+3359,Jrue Holiday,193.0,92.0,"University of California, Los Angeles",1990.0,Chatsworth,California
+3362,Serge Ibaka,208.0,106.0,,1989.0,Brazzaville,Republic of the Congo
+3365,Brandon Jennings,185.0,77.0,,1989.0,Compton,California
+3366,Jonas Jerebko,208.0,104.0,,1987.0,Kinna,Sweden
+3367,James Johnson,206.0,113.0,Wake Forest University,1987.0,Cheyenne,Wyoming
+3371,Wesley Matthews,185.0,77.0,University of Wisconsin,1959.0,Sarasota,Florida
+3373,Jodie Meeks,193.0,95.0,University of Kentucky,1987.0,Norcross,Georgia
+3374,Patty Mills,203.0,111.0,Louisiana Tech University,1985.0,Monroe,Louisiana
+3379,Jeff Teague,188.0,84.0,Wake Forest University,1988.0,Indianapolis,Indiana
+3380,Garrett Temple,198.0,88.0,Louisiana State University,1986.0,Baton Rouge,Louisiana
+3382,Marcus Thornton,193.0,92.0,Louisiana State University,1987.0,Baton Rouge,Louisiana
+3387,Cole Aldrich,211.0,113.0,University of Kansas,1988.0,Burnsville,Minnesota
+3388,Al-Farouq Aminu,206.0,99.0,Wake Forest University,1990.0,Atlanta,Georgia
+3390,Omer Asik,213.0,115.0,,1986.0,Bursa,Turkey
+3391,Luke Babbitt,206.0,102.0,"University of Nevada, Reno",1989.0,Cincinnati,Ohio
+3392,Eric Bledsoe,185.0,86.0,University of Kentucky,1989.0,Birmingham,Alabama
+3393,Trevor Booker,203.0,103.0,Clemson University,1987.0,Newberry,South Carolina
+3395,Avery Bradley,188.0,81.0,University of Texas at Austin,1990.0,Tacoma,Washington
+3399,DeMarcus Cousins,211.0,122.0,University of Kentucky,1990.0,Mobile,Alabama
+3400,Jordan Crawford,196.0,95.0,University of Kentucky,1986.0,Detroit,Michigan
+3401,Ed Davis,208.0,108.0,University of North Carolina,1989.0,Washington,District of Columbia
+3405,Jeremy Evans,206.0,90.0,Western Kentucky University,1987.0,Crossett,Arkansas
+3408,Derrick Favors,208.0,120.0,Georgia Institute of Technology,1991.0,Atlanta,Georgia
+3411,Paul George,206.0,99.0,"California State University, Fresno",1990.0,Palmdale,California
+3412,Blake Griffin,208.0,113.0,University of Oklahoma,1989.0,Oklahoma City,Oklahoma
+3415,Gordon Hayward,203.0,102.0,Butler University,1990.0,Indianapolis,Indiana
+3421,Chris Johnson,183.0,77.0,University of California,1949.0,Corpus Christi,Texas
+3422,Wesley Johnson,201.0,97.0,Syracuse University,1987.0,Corsicana,Texas
+3425,Jeremy Lin,190.0,90.0,Harvard University,1988.0,Palo Alto,California
+3426,Greg Monroe,211.0,120.0,Georgetown University,1990.0,New Orleans,Louisiana
+3427,Timofey Mozgov,216.0,124.0,,1986.0,St. Petersburg,Russia
+3431,Patrick Patterson,206.0,104.0,University of Kentucky,1989.0,Washington,District of Columbia
+3432,Nikola Pekovic,211.0,139.0,,1986.0,Bijelo Polje,Montenegro
+3434,Quincy Pondexter,201.0,99.0,University of Washington,1988.0,Fresno,California
+3437,Larry Sanders,211.0,106.0,Virginia Commonwealth University,1988.0,Fort Pierce,Florida
+3441,Ish Smith,183.0,79.0,Wake Forest University,1988.0,Charlotte,North Carolina
+3443,Lance Stephenson,196.0,104.0,University of Cincinnati,1990.0,Brooklyn,New York
+3445,Evan Turner,201.0,99.0,Ohio State University,1988.0,Chicago,Illinois
+3446,Ekpe Udoh,208.0,108.0,Baylor University,1987.0,Edmond,Oklahoma
+3449,John Wall,193.0,88.0,University of Kentucky,1990.0,Raleigh,North Carolina
+3451,Hassan Whiteside,213.0,120.0,Marshall University,1989.0,Gastonia,North Carolina
+3455,Bismack Biyombo,206.0,115.0,,1992.0,Lubumbashi,Democratic Republic of the Congo
+3457,Alec Burks,198.0,97.0,University of Colorado,1991.0,Grandview,Missouri
+3458,Jimmy Butler,201.0,99.0,Marquette University,1989.0,Houston,Texas
+3464,Kenneth Faried,203.0,103.0,Morehead State University,1989.0,Newark,New Jersey
+3474,Tobias Harris,190.0,86.0,University of New Orleans,1967.0,Monroe,Louisiana
+3479,Kyrie Irving,190.0,87.0,Duke University,1992.0,Melbourne,Australia
+3480,Reggie Jackson,190.0,94.0,Boston College,1990.0,Pordenone,Italy
+3486,Cory Joseph,190.0,87.0,University of Texas at Austin,1991.0,Toronto,Canada
+3487,Enes Kanter,211.0,111.0,,1992.0,Zurich,Switzerland
+3489,Brandon Knight,178.0,78.0,Stanford University,1975.0,Livingston,New Jersey
+3491,Kawhi Leonard,201.0,104.0,San Diego State University,1991.0,Los Angeles,California
+3493,Jon Leuer,208.0,103.0,University of Wisconsin,1989.0,Long Lake,Minnesota
+3494,DeAndre Liggins,198.0,94.0,University of Kentucky,1988.0,Chicago,Illinois
+3495,Shelvin Mack,190.0,92.0,Butler University,1990.0,Lexington,Kentucky
+3497,E'Twaun Moore,208.0,102.0,,1986.0,,
+3499,Marcus Morris,188.0,88.0,Northwestern University,1925.0,,
+3500,Markieff Morris,188.0,88.0,Northwestern University,1925.0,,
+3503,Chandler Parsons,208.0,104.0,University of Florida,1988.0,Casselberry,Florida
+3505,Ricky Rubio,193.0,87.0,,1990.0,Barcelona,Spain
+3507,Iman Shumpert,196.0,99.0,Georgia Institute of Technology,1990.0,Oak Park,Illinois
+3514,Julyan Stone,198.0,90.0,University of Texas at El Paso,1988.0,Alexandria,Virginia
+3515,Isaiah Thomas,185.0,81.0,Indiana University,1961.0,Chicago,Illinois
+3516,Lance Thomas,203.0,106.0,Duke University,1988.0,Brooklyn,New York
+3519,Klay Thompson,201.0,97.0,Washington State University,1990.0,Los Angeles,California
+3521,Tristan Thompson,206.0,107.0,University of Texas at Austin,1991.0,Toronto,Canada
+3525,Nikola Vucevic,213.0,117.0,University of Southern California,1990.0,Morges,Switzerland
+3526,Kemba Walker,203.0,95.0,University of Kentucky,1964.0,Roberta,Georgia
+3527,Derrick Williams,190.0,90.0,University of Illinois at Urbana-Champaign,1984.0,Parkersburg,West Virginia
+3531,Quincy Acy,201.0,108.0,Baylor University,1990.0,Tyler,Texas
+3533,Harrison Barnes,190.0,92.0,Northeastern University,1945.0,,
+3534,Will Barton,198.0,79.0,University of Memphis,1991.0,Baltimore,Maryland
+3535,Aron Baynes,208.0,117.0,Washington State University,1986.0,Gisborne,New Zealand
+3536,Kent Bazemore,196.0,91.0,Old Dominion University,1989.0,Kelford,North Carolina
+3537,Bradley Beal,196.0,93.0,University of Florida,1993.0,St. Louis,Missouri
+3538,Patrick Beverley,185.0,83.0,University of Arkansas,1988.0,Chicago,Illinois
+3541,Jae Crowder,198.0,106.0,Marquette University,1990.0,Villa Rica,Georgia
+3543,Anthony Davis,206.0,97.0,University of Texas at El Paso,1968.0,Oakland,California
+3545,Andre Drummond,211.0,126.0,University of Connecticut,1993.0,Mount Vernon,New York
+3547,Festus Ezeli,211.0,115.0,Vanderbilt University,1989.0,Benin City,Nigeria
+3548,Evan Fournier,201.0,92.0,,1992.0,Saint-Maurice,France
+3551,Draymond Green,201.0,104.0,Michigan State University,1990.0,Saginaw,Michigan
+3553,Maurice Harkless,206.0,97.0,St. John's University,1993.0,Queens,New York
+3554,John Henson,211.0,103.0,University of North Carolina,1990.0,Greensboro,North Carolina
+3555,Justin Holiday,198.0,83.0,University of Washington,1989.0,Mission Hills,California
+3565,Michael Kidd-Gilchrist,201.0,105.0,University of Kentucky,1993.0,Philadelphia,Pennsylvania
+3568,Jeremy Lamb,196.0,83.0,University of Connecticut,1992.0,Henrico Valley,Virginia
+3569,Meyers Leonard,216.0,111.0,University of Illinois at Urbana-Champaign,1992.0,Woodbridge,Virginia
+3570,Damian Lillard,190.0,88.0,Weber State University,1990.0,Oakland,California
+3574,Khris Middleton,203.0,106.0,Texas A&M University,1991.0,Charleston,South Carolina
+3575,Darius Miller,203.0,106.0,University of Kentucky,1990.0,Maysville,Kentucky
+3580,Andrew Nicholson,206.0,113.0,St. Bonaventure University,1989.0,Mississauga,Canada
+3581,Kyle O'Quinn,208.0,113.0,Norfolk State University,1990.0,Flushing,New York
+3583,Miles Plumlee,211.0,112.0,Duke University,1988.0,Fort Wayne,Indiana
+3585,Austin Rivers,193.0,90.0,Duke University,1992.0,Santa Monica,California
+3588,Terrence Ross,201.0,93.0,University of Washington,1991.0,Portland,Oregon
+3590,Mike Scott,203.0,107.0,University of Virginia,1988.0,Chesapeake,Virginia
+3594,Kyle Singler,203.0,103.0,Duke University,1988.0,Medford,Oregon
+3599,Mirza Teletovic,206.0,109.0,,1985.0,Mostar,Bosnia and Herzegovina
+3600,Jonas Valanciunas,213.0,120.0,,1992.0,Utena,Lithuania
+3602,Dion Waiters,193.0,102.0,Syracuse University,1991.0,Philadelphia,Pennsylvania
+3606,Tyler Zeller,213.0,114.0,University of North Carolina,1990.0,Visalia,California
+3607,Steven Adams,213.0,115.0,University of Pittsburgh,1993.0,Rotorua,New Zealand
+3608,Giannis Antetokounmpo,211.0,100.0,,1994.0,Athens,Greece
+3612,Vander Blue,193.0,90.0,Marquette University,1992.0,Milwaukee,Wisconsin
+3614,Reggie Bullock,201.0,92.0,University of North Carolina,1991.0,Baltimore,Maryland
+3615,Trey Burke,185.0,86.0,University of Michigan,1992.0,Columbus,Ohio
+3616,Dwight Buycks,190.0,86.0,Marquette University,1989.0,Milwaukee,Wisconsin
+3618,Kentavious Caldwell-Pope,196.0,92.0,University of Georgia,1993.0,Thomaston,Georgia
+3619,Isaiah Canaan,183.0,91.0,Murray State University,1991.0,Biloxi,Mississippi
+3620,Michael Carter-Williams,198.0,86.0,Syracuse University,1991.0,Hamilton,Massachusetts
+3622,Ian Clark,190.0,79.0,Belmont University,1991.0,Memphis,Tennessee
+3623,Robert Covington,206.0,97.0,Tennessee State University,1990.0,Bellwood,Illinois
+3624,Allen Crabbe,198.0,95.0,University of California,1992.0,Los Angeles,California
+3625,Seth Curry,188.0,83.0,Duke University,1990.0,Charlotte,North Carolina
+3626,Troy Daniels,193.0,92.0,Virginia Commonwealth University,1991.0,Roanoke,Virginia
+3629,Dewayne Dedmon,213.0,111.0,University of Southern California,1989.0,Lancaster,California
+3630,Matthew Dellavedova,193.0,89.0,Saint Mary's College of California,1990.0,Maryborough,Australia
+3631,Gorgui Dieng,211.0,109.0,University of Louisville,1990.0,Kebemer,Senegal
+3634,Carrick Felix,198.0,91.0,Arizona State University,1990.0,Las Vegas,Arizona
+3636,Rudy Gobert,216.0,111.0,,1992.0,Saint-Quentin,France
+3639,Justin Hamilton,213.0,117.0,Louisiana State University,1990.0,Newport Beach,California
+3641,Solomon Hill,201.0,102.0,University of Arizona,1991.0,Los Angeles,California
+3642,Scotty Hopson,201.0,92.0,University of Tennessee,1989.0,Hopkinsville,Kentucky
+3647,Shane Larkin,180.0,79.0,University of Miami,1992.0,Cincinnati,Ohio
+3649,Alex Len,216.0,117.0,University of Maryland,1993.0,Antratsit,Ukraine
+3651,C.J. McCollum,190.0,86.0,,1991.0,,
+3652,Ben McLemore,196.0,88.0,University of Kansas,1993.0,St. Louis,Missouri
+3653,Gal Mekel,190.0,86.0,Wichita State University,1988.0,Petah Tikva,Israel
+3655,Shabazz Muhammad,198.0,101.0,"University of California, Los Angeles",1992.0,Los Angeles,California
+3658,Mike Muscala,211.0,108.0,Bucknell University,1991.0,St. Louis Park,Minnesota
+3661,Victor Oladipo,193.0,95.0,Indiana University,1992.0,Silver Spring,Maryland
+3662,Kelly Olynyk,213.0,107.0,Gonzaga University,1991.0,Toronto,Canada
+3664,Mason Plumlee,211.0,111.0,Duke University,1990.0,Fort Wayne,Indiana
+3665,Otto Porter,203.0,89.0,Georgetown University,1993.0,St. Louis,Missouri
+3667,Miroslav Raduljica,213.0,113.0,,1988.0,Belgrade,Serbia
+3668,Andre Roberson,196.0,83.0,Oral Roberts University,1955.0,Chattanooga,Tennessee
+3669,Dennis Schroder,185.0,78.0,,1993.0,Braunschweig,Germany
+3671,Tony Snell,201.0,90.0,University of New Mexico,1991.0,Riverside,California
+3678,Jeff Withey,213.0,104.0,University of Kansas,1990.0,San Diego,California
+3679,Nate Wolters,193.0,86.0,South Dakota State University,1991.0,St. Cloud,Minnesota
+3680,Cody Zeller,213.0,108.0,Indiana University,1992.0,Washington,Indiana
+3683,Kyle Anderson,206.0,104.0,"University of California, Los Angeles",1993.0,New York,New York
+3687,Tarik Black,206.0,113.0,University of Kansas,1991.0,Memphis,Tennessee
+3688,Bojan Bogdanovic,198.0,92.0,,1992.0,Belgrade,Serbia
+3691,Bruno Caboclo,206.0,98.0,,1995.0,Osasco,Brazil
+3692,Clint Capela,206.0,98.0,,1995.0,,
+3695,Jordan Clarkson,196.0,87.0,University of Missouri,1992.0,Tampa,Florida
+3699,Spencer Dinwiddie,198.0,90.0,University of Colorado,1993.0,Los Angeles,California
+3702,James Ennis,201.0,95.0,"California State University, Long Beach",1990.0,Ventura,California
+3703,Tyler Ennis,190.0,87.0,Syracuse University,1994.0,Brampton,Canada
+3704,Dante Exum,198.0,86.0,,1995.0,Melbourne,Australia
+3705,Tim Frazier,185.0,77.0,Pennsylvania State University,1990.0,Houston,Texas
+3706,Langston Galloway,188.0,90.0,Saint Joseph's University,1991.0,Baton Rouge,Louisiana
+3707,Aaron Gordon,206.0,99.0,University of Arizona,1995.0,San Jose,California
+3709,Jerami Grant,203.0,95.0,Syracuse University,1994.0,Portland,Oregon
+3711,JaMychal Green,206.0,102.0,University of Alabama,1990.0,Montgomery,Alabama
+3713,Gary Harris,193.0,95.0,Michigan State University,1994.0,Fishers,Indiana
+3714,Joe Harris,198.0,99.0,University of Virginia,1991.0,Chelan,Washington
+3715,Rodney Hood,203.0,93.0,Duke University,1992.0,Meridian,Mississippi
+3716,Joe Ingles,203.0,102.0,,1987.0,Happy Valley,Australia
+3720,Tyler Johnson,193.0,84.0,"California State University, Fresno",1992.0,Grand Forks,North Dakota
+3721,Sean Kilpatrick,193.0,95.0,University of Cincinnati,1990.0,Yonkers,New York
+3723,Joffrey Lauvergne,211.0,99.0,,1991.0,Mulhouse,France
+3724,Zach LaVine,196.0,85.0,"University of California, Los Angeles",1995.0,Renton,Washington
+3728,K.J. McDaniels,198.0,90.0,,1992.0,,
+3729,Doug McDermott,203.0,102.0,Creighton University,1992.0,Grand Forks,North Dakota
+3733,Nikola Mirotic,208.0,99.0,,1991.0,Podgorica,Montenegro
+3734,Eric Moreland,208.0,107.0,Oregon State University,1991.0,Houston,Texas
+3735,Shabazz Napier,185.0,79.0,University of Connecticut,1991.0,Roxbury,Massachusetts
+3736,Nerlens Noel,211.0,103.0,University of Kentucky,1994.0,Malden,Massachusetts
+3737,Lucas Nogueira,213.0,109.0,,1992.0,Sao Goncalo,Brazil
+3738,Jusuf Nurkic,213.0,127.0,,1994.0,Tuzla,Bosnia and Herzegovina
+3739,Johnny O'Bryant,206.0,116.0,Louisiana State University,1993.0,Cleveland,Mississippi
+3741,Jabari Parker,203.0,113.0,Duke University,1995.0,Chicago,Illinois
+3743,Elfrid Payton,193.0,83.0,University of Louisiana at Lafayette,1994.0,Gretna,Louisiana
+3744,Dwight Powell,211.0,108.0,Stanford University,1991.0,Toronto,Canada
+3745,Julius Randle,206.0,113.0,University of Kentucky,1994.0,Dallas,Texas
+3748,Marcus Smart,193.0,99.0,Oklahoma State University,1994.0,Flower Mound,Texas
+3750,Nik Stauskas,198.0,92.0,University of Michigan,1993.0,Mississauga,Canada
+3753,Noah Vonleh,208.0,108.0,Indiana University,1995.0,Haverhill,Massachusetts
+3754,T.J. Warren,208.0,108.0,,1995.0,,
+3756,Travis Wear,208.0,104.0,"University of California, Los Angeles",1990.0,Long Beach,California
+3758,Andrew Wiggins,203.0,90.0,University of Kansas,1995.0,Toronto,Canada
+3762,Justin Anderson,198.0,103.0,University of Virginia,1993.0,Montross,Virginia
+3765,Nemanja Bjelica,208.0,108.0,,1988.0,Belgrade,Serbia
+3766,Devin Booker,198.0,93.0,University of Kentucky,1996.0,Grand Rapids,Michigan
+3768,Willie Cauley-Stein,213.0,108.0,University of Kentucky,1993.0,Spearville,Kansas
+3769,Rakeem Christmas,206.0,113.0,Syracuse University,1991.0,Irvington,New Jersey
+3771,Pat Connaughton,196.0,93.0,University of Notre Dame,1993.0,Arlington,Massachusetts
+3774,Sam Dekker,206.0,104.0,University of Wisconsin,1994.0,Sheboygan,Wisconsin
+3776,Jarell Eddie,201.0,98.0,Virginia Polytechnic Institute and State University,1991.0,Tampa,Florida
+3777,Cristiano Felicio,208.0,124.0,,1992.0,Pouso Alegre,Brazil
+3778,Jerian Grant,203.0,95.0,Syracuse University,1994.0,Portland,Oregon
+3779,Montrezl Harrell,203.0,108.0,University of Louisville,1994.0,Tarboro,North Carolina
+3781,Mario Hezonja,203.0,97.0,,1995.0,Dubrovnik,Croatia
+3783,Rondae Hollis-Jefferson,201.0,99.0,University of Arizona,1995.0,Chester,Pennsylvania
+3784,Richaun Holmes,208.0,111.0,Bowling Green State University,1993.0,Lockport,Illinois
+3786,Josh Huestis,201.0,104.0,Stanford University,1991.0,Webster,Texas
+3789,Stanley Johnson,203.0,99.0,Murray State University,1944.0,Clairton,Pennsylvania
+3790,Nikola Jokic,208.0,113.0,,1995.0,Sombor,Serbia
+3791,Tyus Jones,188.0,88.0,Duke University,1996.0,Burnsville,Minnesota
+3792,Frank Kaminsky,213.0,109.0,University of Wisconsin,1993.0,Winfield,Illinois
+3794,Kevon Looney,206.0,99.0,"University of California, Los Angeles",1996.0,Milwaukee,Wisconsin
+3795,Trey Lyles,208.0,106.0,University of Kentucky,1995.0,Saskatoon,Canada
+3796,Boban Marjanovic,221.0,131.0,,1988.0,Zajecar,Serbia
+3797,Jarell Martin,208.0,108.0,Louisiana State University,1994.0,Baton Rouge,Louisiana
+3798,T.J. McConnell,208.0,108.0,,1994.0,,
+3799,Chris McCullough,211.0,90.0,Syracuse University,1995.0,Bronx,New York
+3801,Salah Mejri,216.0,111.0,,1986.0,Jendouba,Tunisia
+3802,Jordan Mickey,203.0,106.0,Louisiana State University,1994.0,Dallas,Texas
+3803,Luis Montero,201.0,83.0,Westchester CC,1993.0,Santo Domingo,Dominican Republic
+3804,Emmanuel Mudiay,196.0,90.0,,1996.0,Kinshasa,Democratic Republic of the Congo
+3806,Raul Neto,185.0,81.0,,1992.0,Belo Horizonte,Brazil
+3808,Jahlil Okafor,211.0,124.0,Duke University,1995.0,Chicago,Illinois
+3809,Kelly Oubre,201.0,92.0,University of Kansas,1995.0,New Orleans,Louisiana
+3811,Cameron Payne,190.0,83.0,Murray State University,1994.0,Memphis,Tennessee
+3812,Tibor Pleiss,221.0,116.0,,1989.0,Bergisch Gladbach,Germany
+3813,Bobby Portis,211.0,104.0,University of Arkansas,1995.0,Little Rock,Arkansas
+3814,Kristaps Porzingis,221.0,108.0,,1995.0,Liepaja,Latvia
+3815,Norman Powell,193.0,97.0,"University of California, Los Angeles",1993.0,San Diego,California
+3816,Willie Reed,206.0,106.0,Grambling State University,1942.0,Hico,Louisiana
+3817,Josh Richardson,198.0,90.0,University of Tennessee,1993.0,Edmond,Oklahoma
+3818,Terry Rozier,188.0,86.0,University of Louisville,1994.0,Youngstown,Ohio
+3819,D'Angelo Russell,188.0,86.0,,1994.0,,
+3820,Jonathon Simmons,185.0,83.0,New York University,1924.0,Birmingham,Alabama
+3823,Axel Toupane,201.0,89.0,,1992.0,Mulhouse,France
+3824,Karl-Anthony Towns,213.0,110.0,University of Kentucky,1995.0,Edison,New Jersey
+3825,Myles Turner,211.0,110.0,University of Texas at Austin,1996.0,Bedford,Texas
+3826,Rashad Vaughn,198.0,91.0,"University of Nevada, Las Vegas",1996.0,Minneapolis,Minnesota
+3827,Briante Weber,188.0,74.0,Virginia Commonwealth University,1992.0,Chesapeake,Virginia
+3828,Alan Williams,198.0,90.0,Drake University,1948.0,,
+3829,Justise Winslow,201.0,102.0,Duke University,1996.0,Houston,Texas
+3831,Delon Wright,196.0,83.0,University of Utah,1992.0,Los Angeles,California
+3832,Joe Young,188.0,81.0,University of Oregon,1992.0,Houston,Texas
+3833,Alex Abrines,198.0,86.0,,1993.0,Palma de Mallorca,Spain
+3834,Ron Baker,193.0,99.0,Wichita State University,1993.0,Hays,Kansas
+3835,Wade Baldwin,193.0,91.0,Vanderbilt University,1996.0,Belle Mead,New Jersey
+3836,Malik Beasley,196.0,88.0,Florida State University,1996.0,Atlanta,Georgia
+3837,DeAndre' Bembry,198.0,95.0,Saint Joseph's University,1994.0,Charlotte,North Carolina
+3838,Dragan Bender,216.0,102.0,,1997.0,Capljina,Bosnia and Herzegovina
+3840,Davis Bertans,208.0,95.0,,1992.0,Valmiera,Latvia
+3841,Joel Bolomboy,206.0,106.0,Weber State University,1994.0,Kiev,Ukraine
+3842,Malcolm Brogdon,196.0,97.0,University of Virginia,1992.0,Atlanta,Georgia
+3843,Jaylen Brown,193.0,97.0,University of Missouri,1992.0,Oakland,California
+3844,Nicolas Brussino,201.0,88.0,,1993.0,Santa Fe,Argentina
+3845,Marquese Chriss,208.0,105.0,University of Washington,1997.0,Sacramento,California
+3847,Quinn Cook,188.0,83.0,Duke University,1993.0,Washington,District of Columbia
+3848,Deyonta Davis,211.0,107.0,Michigan State University,1996.0,Muskegon,Michigan
+3849,Malcolm Delaney,190.0,86.0,Virginia Polytechnic Institute and State University,1989.0,Baltimore,Maryland
+3850,Cheick Diallo,206.0,99.0,University of Kansas,1996.0,Kayes,Mali
+3851,Kris Dunn,193.0,95.0,Providence College,1994.0,New London,Connecticut
+3852,Henry Ellenson,211.0,111.0,Marquette University,1997.0,Rice Lake,Wisconsin
+3853,Joel Embiid,213.0,113.0,University of Kansas,1994.0,Yaounde,Cameroon
+3854,Kay Felder,175.0,79.0,Oakland University,1995.0,Detroit,Michigan
+3855,Yogi Ferrell,183.0,81.0,Indiana University,1993.0,Indianapolis,Indiana
+3856,Dorian Finney-Smith,203.0,99.0,University of Florida,1993.0,Portsmouth,Virginia
+3857,Bryn Forbes,190.0,86.0,Michigan State University,1993.0,Lansing,Michigan
+3859,Michael Gbinije,201.0,90.0,Syracuse University,1992.0,Hartford,Connecticut
+3860,Marcus Georges-Hunt,196.0,97.0,Georgia Institute of Technology,1994.0,Miami,Florida
+3862,Treveon Graham,198.0,99.0,Virginia Commonwealth University,1993.0,Washington,District of Columbia
+3863,A.J. Hammons,198.0,99.0,,1993.0,,
+3864,Andrew Harrison,198.0,96.0,University of Kentucky,1994.0,San Antonio,Texas
+3865,Juan Hernangomez,206.0,104.0,,1995.0,Madrid,Spain
+3866,Willy Hernangomez,211.0,108.0,,1994.0,Madrid,Spain
+3867,Buddy Hield,193.0,97.0,University of Oklahoma,1993.0,Freeport,Bahamas
+3869,Brandon Ingram,206.0,86.0,Duke University,1997.0,Kinston,North Carolina
+3870,Demetrius Jackson,185.0,91.0,University of Notre Dame,1994.0,South Bend,Indiana
+3872,Brice Johnson,208.0,95.0,University of Utah,1979.0,Salt Lake City,Utah
+3873,Damian Jones,190.0,83.0,University of Houston,1976.0,Galveston,Texas
+3874,Derrick Jones,203.0,100.0,University of Miami,1990.0,Stone Mountain,Georgia
+3875,Mindaugas Kuzminskas,206.0,97.0,,1989.0,Vilnius,Lithuania
+3876,Skal Labissiere,211.0,102.0,University of Kentucky,1996.0,Port-Au-Prince,Haiti
+3878,Jake Layman,206.0,95.0,University of Maryland,1994.0,Norwood,Massachusetts
+3879,Caris LeVert,201.0,92.0,University of Michigan,1994.0,Columbus,Ohio
+3881,Timothe Luwawu-Cabarrot,198.0,92.0,,1995.0,Cannes,France
+3882,Thon Maker,216.0,97.0,,1997.0,South Sudan,
+3883,Patrick McCaw,201.0,83.0,"University of Nevada, Las Vegas",1995.0,St. Louis,Missouri
+3885,Rodney McGruder,193.0,92.0,Kansas State University,1991.0,Landover,Maryland
+3886,Dejounte Murray,196.0,77.0,University of Washington,1996.0,Seattle,Washington
+3887,Jamal Murray,193.0,93.0,University of Kentucky,1997.0,Kitchener,Canada
+3889,Georges Niang,203.0,104.0,Iowa State University,1993.0,Lawrence,Massachusetts
+3890,David Nwaba,193.0,94.0,"California Polytechnic State University, San Luis Obispo",1993.0,Los Angeles,California
+3891,Daniel Ochefu,211.0,111.0,Villanova University,1993.0,Baltimore,Maryland
+3892,Chinanu Onuaku,208.0,111.0,University of Louisville,1996.0,Baltimore,Maryland
+3893,Georgios Papagiannis,216.0,108.0,,1997.0,Amarousio,Greece
+3894,Gary Payton,193.0,81.0,Oregon State University,1968.0,Oakland,California
+3895,Marshall Plumlee,211.0,111.0,Duke University,1990.0,Fort Wayne,Indiana
+3896,Jakob Poeltl,213.0,112.0,University of Utah,1995.0,Vienna,Austria
+3897,Alex Poythress,201.0,107.0,University of Kentucky,1993.0,Savannah,Georgia
+3899,Chasson Randle,188.0,83.0,Stanford University,1993.0,Rock Island,Illinois
+3900,Malachi Richardson,198.0,92.0,Syracuse University,1996.0,Trenton,New Jersey
+3901,Domantas Sabonis,211.0,108.0,Gonzaga University,1996.0,Portland,Oregon
+3902,Dario Saric,208.0,101.0,,1994.0,Sibenik,Croatia
+3903,Tomas Satoransky,201.0,95.0,,1991.0,Prague,Czech Republic
+3904,Wayne Selden,196.0,104.0,University of Kansas,1994.0,Roxbury,Massachusetts
+3905,Pascal Siakam,206.0,104.0,New Mexico State University,1994.0,Douala,Cameroon
+3906,Diamond Stone,211.0,115.0,University of Maryland,1997.0,Milwaukee,Wisconsin
+3908,Isaiah Taylor,190.0,77.0,University of Texas at Austin,1994.0,Hayward,California
+3910,Tyler Ulis,178.0,68.0,University of Kentucky,1996.0,Detroit,Michigan
+3912,Denzel Valentine,198.0,96.0,Michigan State University,1993.0,Lansing,Michigan
+3913,Fred VanVleet,183.0,88.0,Wichita State University,1994.0,Rockford,Illinois
+3914,Taurean Waller-Prince,183.0,88.0,,1994.0,,
+3915,Okaro White,203.0,92.0,Florida State University,1992.0,Clearwater,Florida
+3916,Isaiah Whitehead,193.0,96.0,Seton Hall University,1995.0,Brooklyn,New York
+3917,Troy Williams,198.0,97.0,South Carolina State University,1969.0,Columbia,South Carolina
+3919,Stephen Zimmerman,213.0,108.0,"University of Nevada, Las Vegas",1996.0,Hendersonville,Tennessee
+3920,Paul Zipser,203.0,97.0,,1994.0,Heidelberg,Germany
+3921,Ivica Zubac,216.0,120.0,,1997.0,Mostar,Bosnia and Herzegovina
