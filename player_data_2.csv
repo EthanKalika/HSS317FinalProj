@@ -1,0 +1,456 @@
+name,year_start,year_end,position,height,weight,birth_date,college
+Alex Abrines,2017,2018,G-F,6-6,190.0,"August 1, 1993",
+Quincy Acy,2013,2018,F,6-7,240.0,"October 6, 1990",Baylor University
+Steven Adams,2014,2018,C,7-0,255.0,"July 20, 1993",University of Pittsburgh
+Arron Afflalo,2008,2018,G,6-5,210.0,"October 15, 1985","University of California, Los Angeles"
+Alexis Ajinca,2009,2017,C,7-2,248.0,"May 6, 1988",
+Cole Aldrich,2011,2018,C,6-11,250.0,"October 31, 1988",University of Kansas
+LaMarcus Aldridge,2007,2018,F-C,6-11,260.0,"July 19, 1985",University of Texas at Austin
+Tony Allen,2005,2018,G-F,6-4,213.0,"January 11, 1982",Oklahoma State University
+Al-Farouq Aminu,2011,2018,F,6-9,220.0,"September 21, 1990",Wake Forest University
+Justin Anderson,2016,2018,G,6-6,228.0,"November 19, 1993",University of Virginia
+Kyle Anderson,2015,2018,F-G,6-9,230.0,"September 20, 1993","University of California, Los Angeles"
+Ryan Anderson,2009,2018,F,6-10,240.0,"May 6, 1988",University of California
+Giannis Antetokounmpo,2014,2018,F-G,6-11,222.0,"December 6, 1994",
+Carmelo Anthony,2004,2018,F,6-8,240.0,"May 29, 1984",Syracuse University
+Trevor Ariza,2005,2018,F,6-8,215.0,"June 30, 1985","University of California, Los Angeles"
+Darrell Arthur,2009,2018,F,6-9,235.0,"March 25, 1988",University of Kansas
+Omer Asik,2011,2018,C,7-0,255.0,"July 4, 1986",
+D.J. Augustin,2009,2018,G,6-0,183.0,"November 10, 1987",University of Texas at Austin
+Luke Babbitt,2011,2018,F,6-9,225.0,"June 20, 1989","University of Nevada, Reno"
+Ron Baker,2017,2018,G,6-4,220.0,"March 30, 1993",Wichita State University
+Wade Baldwin,2017,2017,G,6-4,202.0,"March 29, 1996",Vanderbilt University
+Leandro Barbosa,2004,2017,G,6-3,194.0,"November 28, 1982",
+J.J. Barea,2007,2018,G,6-0,185.0,"June 26, 1984",Northeastern University
+Harrison Barnes,2013,2018,F,6-8,210.0,"May 30, 1992",University of North Carolina
+Matt Barnes,2004,2017,F,6-7,226.0,"March 9, 1980","University of California, Los Angeles"
+Will Barton,2013,2018,G,6-6,175.0,"January 6, 1991",University of Memphis
+Nicolas Batum,2009,2018,F-G,6-8,200.0,"December 14, 1988",
+Jerryd Bayless,2009,2018,G,6-3,200.0,"August 20, 1988",University of Arizona
+Aron Baynes,2013,2018,C,6-10,260.0,"December 9, 1986",Washington State University
+Kent Bazemore,2013,2018,G-F,6-5,201.0,"July 1, 1989",Old Dominion University
+Bradley Beal,2013,2018,G,6-5,207.0,"June 28, 1993",University of Florida
+Malik Beasley,2017,2018,G,6-5,196.0,"November 26, 1996",Florida State University
+Michael Beasley,2009,2018,F,6-9,235.0,"January 9, 1989",Kansas State University
+Marco Belinelli,2008,2018,G-F,6-5,210.0,"March 25, 1986",
+DeAndre' Bembry,2017,2018,F,6-6,210.0,"July 4, 1994",Saint Joseph's University
+Dragan Bender,2017,2018,F,7-1,225.0,"November 17, 1997",
+Davis Bertans,2017,2018,F,6-10,210.0,"November 12, 1992",
+Patrick Beverley,2013,2018,G,6-1,185.0,"July 12, 1988",University of Arkansas
+Bismack Biyombo,2012,2018,C-F,6-9,255.0,"August 28, 1992",
+Nemanja Bjelica,2016,2018,F,6-10,240.0,"May 9, 1988",
+Tarik Black,2015,2018,C-F,6-9,250.0,"November 22, 1991",University of Kansas
+Eric Bledsoe,2011,2018,G,6-1,205.0,"December 9, 1989",University of Kentucky
+Vander Blue,2014,2018,G,6-4,200.0,"July 17, 1992",Marquette University
+Bojan Bogdanovic,2015,2018,G-F,6-8,216.0,"April 18, 1989",
+Andrew Bogut,2006,2018,C,7-0,260.0,"November 28, 1984",University of Utah
+Joel Bolomboy,2017,2018,F,6-9,235.0,"January 28, 1994",Weber State University
+Devin Booker,2016,2018,G,6-6,206.0,"October 30, 1996",University of Kentucky
+Trevor Booker,2011,2018,F,6-8,228.0,"November 25, 1987",Clemson University
+Chris Bosh,2004,2016,F-C,6-11,235.0,"March 24, 1984",Georgia Institute of Technology
+Avery Bradley,2011,2018,G,6-2,180.0,"November 26, 1990",University of Texas at Austin
+Corey Brewer,2008,2018,F-G,6-9,186.0,"March 5, 1986",University of Florida
+Malcolm Brogdon,2017,2018,G,6-5,215.0,"December 11, 1992",University of Virginia
+Aaron Brooks,2008,2018,G,6-0,161.0,"January 14, 1985",University of Oregon
+Bobby Brown,2009,2018,G,6-2,175.0,"September 24, 1984","California State University, Fullerton"
+Jaylen Brown,2017,2018,F-G,6-7,225.0,"October 24, 1996",University of California
+Nicolas Brussino,2017,2018,G-F,6-7,195.0,"March 2, 1993",
+Reggie Bullock,2014,2018,G-F,6-7,205.0,"March 16, 1991",University of North Carolina
+Trey Burke,2014,2017,G,6-1,191.0,"November 12, 1992",University of Michigan
+Alec Burks,2012,2018,G,6-6,214.0,"July 20, 1991",University of Colorado
+Caron Butler,2003,2016,F,6-7,228.0,"March 13, 1980",University of Connecticut
+Jimmy Butler,2012,2018,F-G,6-8,236.0,"September 14, 1989",Marquette University
+Dwight Buycks,2014,2015,G,6-3,190.0,"March 6, 1989",Marquette University
+Bruno Caboclo,2015,2018,F,6-9,218.0,"September 21, 1995",
+Jose Calderon,2006,2018,G,6-3,200.0,"September 28, 1981",
+Kentavious Caldwell-Pope,2014,2018,G,6-5,205.0,"February 18, 1993",University of Georgia
+Isaiah Canaan,2014,2018,G,6-0,201.0,"May 21, 1991",Murray State University
+Clint Capela,2015,2018,C,6-10,240.0,"May 18, 1994",
+DeMarre Carroll,2010,2018,F,6-8,215.0,"July 27, 1986",University of Missouri
+Vince Carter,1999,2018,G-F,6-6,220.0,"January 26, 1977",University of North Carolina
+Michael Carter-Williams,2014,2018,G,6-6,190.0,"October 10, 1991",Syracuse University
+Omri Casspi,2010,2018,F,6-9,225.0,"June 22, 1988",
+Willie Cauley-Stein,2016,2018,F-C,7-0,240.0,"August 18, 1993",University of Kentucky
+Mario Chalmers,2009,2018,G,6-2,190.0,"May 19, 1986",University of Kansas
+Tyson Chandler,2002,2018,C,7-1,240.0,"October 2, 1982",
+Wilson Chandler,2008,2018,F,6-8,225.0,"May 10, 1987",DePaul University
+Marquese Chriss,2017,2018,F,6-10,233.0,"July 2, 1997",University of Washington
+Rakeem Christmas,2016,2017,F,6-9,250.0,"December 1, 1991",Syracuse University
+Ian Clark,2014,2018,G,6-3,175.0,"March 7, 1991",Belmont University
+Jordan Clarkson,2015,2018,G,6-5,194.0,"June 7, 1992",University of Missouri
+Darren Collison,2010,2018,G,6-0,175.0,"August 23, 1987","University of California, Los Angeles"
+Nick Collison,2005,2018,F,6-10,255.0,"October 26, 1980",University of Kansas
+Mike Conley,2008,2018,G,6-1,175.0,"October 11, 1987",Ohio State University
+Pat Connaughton,2016,2018,G,6-5,206.0,"January 6, 1993",University of Notre Dame
+Quinn Cook,2017,2018,G,6-2,184.0,"March 23, 1993",Duke University
+DeMarcus Cousins,2011,2018,C-F,6-11,270.0,"August 13, 1990",University of Kentucky
+Robert Covington,2014,2018,F,6-9,215.0,"December 14, 1990",Tennessee State University
+Allen Crabbe,2014,2018,G-F,6-6,210.0,"April 9, 1992",University of California
+Jamal Crawford,2001,2018,G,6-5,200.0,"March 20, 1980",University of Michigan
+Jordan Crawford,2011,2018,G,6-4,195.0,"October 23, 1988",Xavier University
+Jae Crowder,2013,2018,F,6-6,235.0,"July 6, 1990",Marquette University
+Dante Cunningham,2010,2018,F,6-8,230.0,"April 22, 1987",Villanova University
+Seth Curry,2014,2017,G,6-2,185.0,"August 23, 1990",Duke University
+Stephen Curry,2010,2018,G,6-3,190.0,"March 14, 1988",Davidson College
+Troy Daniels,2014,2018,G,6-4,205.0,"July 15, 1991",Virginia Commonwealth University
+Anthony Davis,2013,2018,F-C,6-10,253.0,"March 11, 1993",University of Kentucky
+Deyonta Davis,2017,2018,F-C,6-11,237.0,"December 2, 1996",Michigan State University
+Ed Davis,2011,2018,F,6-10,240.0,"June 5, 1989",University of North Carolina
+Dewayne Dedmon,2014,2018,C,7-0,245.0,"August 12, 1989",University of Southern California
+Sam Dekker,2016,2018,F,6-9,230.0,"May 6, 1994",University of Wisconsin
+Malcolm Delaney,2017,2018,G,6-3,190.0,"March 11, 1989",Virginia Polytechnic Institute and State University
+Carlos Delfino,2005,2013,G,6-6,230.0,"August 29, 1982",
+Matthew Dellavedova,2014,2018,G,6-4,198.0,"September 8, 1990",Saint Mary's College of California
+Luol Deng,2005,2018,F,6-9,220.0,"April 16, 1985",Duke University
+DeMar DeRozan,2010,2018,G-F,6-7,221.0,"August 7, 1989",University of Southern California
+Cheick Diallo,2017,2018,F,6-9,220.0,"September 13, 1996",University of Kansas
+Gorgui Dieng,2014,2018,C,6-11,241.0,"January 18, 1990",University of Louisville
+Spencer Dinwiddie,2015,2018,G,6-6,200.0,"April 6, 1993",University of Colorado
+Goran Dragic,2009,2018,G,6-3,190.0,"May 6, 1986",
+Larry Drew,1981,1991,G,6-1,170.0,"April 2, 1958",University of Missouri
+Larry Drew,2015,2015,G,6-2,180.0,"March 5, 1990","University of California, Los Angeles"
+Andre Drummond,2013,2018,C,6-11,279.0,"August 10, 1993",University of Connecticut
+Jared Dudley,2008,2018,F-G,6-7,225.0,"July 10, 1985",Boston College
+Tim Duncan,1998,2016,F-C,6-11,250.0,"April 25, 1976",Wake Forest University
+Mike Dunleavy,1977,1990,G,6-3,180.0,"March 21, 1954",University of South Carolina
+Mike Dunleavy,2003,2017,F-G,6-9,230.0,"September 15, 1980",Duke University
+Kris Dunn,2017,2018,G,6-4,210.0,"March 18, 1994",Providence College
+Kevin Durant,2008,2018,F-G,6-9,240.0,"September 29, 1988",University of Texas at Austin
+Jarell Eddie,2016,2017,G-F,6-7,218.0,"October 30, 1991",Virginia Polytechnic Institute and State University
+Henry Ellenson,2017,2018,F,6-11,245.0,"January 13, 1997",Marquette University
+Wayne Ellington,2010,2018,G,6-4,200.0,"October 29, 1987",University of North Carolina
+Monta Ellis,2006,2017,G,6-3,185.0,"October 26, 1985",
+Joel Embiid,2017,2018,C-F,7-0,250.0,"March 16, 1994",University of Kansas
+James Ennis,2015,2018,F,6-7,210.0,"July 1, 1990","California State University, Long Beach"
+Tyler Ennis,2015,2018,G,6-3,194.0,"August 24, 1994",Syracuse University
+Jeremy Evans,2011,2016,F,6-9,200.0,"October 24, 1987",Western Kentucky University
+Tyreke Evans,2010,2018,G-F,6-6,220.0,"September 19, 1989",University of Memphis
+Dante Exum,2015,2017,G,6-6,190.0,"July 13, 1995",
+Festus Ezeli,2013,2016,C,6-11,255.0,"October 21, 1989",Vanderbilt University
+Kenneth Faried,2012,2018,F,6-8,228.0,"November 19, 1989",Morehead State University
+Jordan Farmar,2007,2017,G,6-2,180.0,"November 30, 1986","University of California, Los Angeles"
+Derrick Favors,2011,2018,F-C,6-10,265.0,"July 15, 1991",Georgia Institute of Technology
+Kay Felder,2017,2018,G,5-9,176.0,"March 29, 1995",Oakland University
+Cristiano Felicio,2016,2018,F-C,6-10,275.0,"July 7, 1992",
+Carrick Felix,2014,2014,G,6-6,201.0,"August 17, 1990",Arizona State University
+Raymond Felton,2006,2018,G,6-1,205.0,"June 26, 1984",University of North Carolina
+Yogi Ferrell,2017,2018,G,6-0,180.0,"May 9, 1993",Indiana University
+Dorian Finney-Smith,2017,2018,F,6-8,220.0,"May 4, 1993",University of Florida
+Bryn Forbes,2017,2018,G,6-3,190.0,"July 23, 1993",Michigan State University
+Evan Fournier,2013,2018,G-F,6-7,205.0,"October 29, 1992",
+Tim Frazier,2015,2018,G,6-1,170.0,"November 1, 1990",Pennsylvania State University
+Channing Frye,2006,2018,C-F,6-11,255.0,"May 17, 1983",University of Arizona
+Danilo Gallinari,2009,2018,F,6-10,225.0,"August 8, 1988",
+Langston Galloway,2015,2018,G,6-2,200.0,"December 9, 1991",Saint Joseph's University
+Marc Gasol,2009,2018,C,7-1,255.0,"January 29, 1985",
+Pau Gasol,2002,2018,F-C,7-0,250.0,"July 6, 1980",
+Rudy Gay,2007,2018,F,6-8,230.0,"August 17, 1986",University of Connecticut
+Michael Gbinije,2017,2017,G,6-7,200.0,"June 5, 1992",Syracuse University
+Paul George,2011,2018,F,6-9,220.0,"May 2, 1990","California State University, Fresno"
+Marcus Georges-Hunt,2017,2018,G,6-5,216.0,"March 28, 1994",Georgia Institute of Technology
+Taj Gibson,2010,2018,F,6-9,225.0,"June 24, 1985",University of Southern California
+Manu Ginobili,2003,2018,G,6-6,205.0,"July 28, 1977",
+Rudy Gobert,2014,2018,C,7-1,245.0,"June 26, 1992",
+Aaron Gordon,2015,2018,F,6-9,220.0,"September 16, 1995",University of Arizona
+Eric Gordon,2009,2018,G,6-4,215.0,"December 25, 1988",Indiana University
+Marcin Gortat,2008,2018,C-F,6-11,240.0,"February 17, 1984",
+Treveon Graham,2017,2018,G,6-6,220.0,"October 29, 1993",Virginia Commonwealth University
+Jerami Grant,2015,2018,F,6-8,210.0,"March 12, 1994",Syracuse University
+Jerian Grant,2016,2018,G,6-4,195.0,"October 9, 1992",University of Notre Dame
+Aaron Gray,2008,2014,C,7-0,270.0,"December 7, 1984",University of Pittsburgh
+Danny Green,2010,2018,G-F,6-6,215.0,"June 22, 1987",University of North Carolina
+Draymond Green,2013,2018,F,6-7,230.0,"March 4, 1990",Michigan State University
+Gerald Green,2006,2017,G-F,6-7,205.0,"January 26, 1986",
+JaMychal Green,2015,2018,F,6-9,227.0,"June 21, 1990",University of Alabama
+Jeff Green,2008,2018,F,6-9,235.0,"August 28, 1986",Georgetown University
+Blake Griffin,2011,2018,F,6-10,251.0,"March 16, 1989",University of Oklahoma
+Justin Hamilton,2014,2017,C,7-0,260.0,"April 1, 1990",Louisiana State University
+A.J. Hammons,2017,2017,C,7-0,260.0,"August 27, 1992",Purdue University
+Tim Hardaway,1990,2003,G,6-0,175.0,"September 1, 1966",University of Texas at El Paso
+Tim Hardaway,2014,2018,G,6-6,205.0,"March 16, 1992",University of Michigan
+James Harden,2010,2018,G,6-5,220.0,"August 26, 1989",Arizona State University
+Maurice Harkless,2013,2018,F-G,6-9,215.0,"May 11, 1993",St. John's University
+Montrezl Harrell,2016,2018,F-C,6-8,240.0,"January 26, 1994",University of Louisville
+Devin Harris,2005,2018,G,6-3,192.0,"February 27, 1983",University of Wisconsin
+Gary Harris,2015,2018,G,6-4,210.0,"September 14, 1994",Michigan State University
+Joe Harris,2015,2018,G,6-6,219.0,"September 6, 1991",University of Virginia
+Tobias Harris,2012,2018,F,6-9,235.0,"July 15, 1992",University of Tennessee
+Andrew Harrison,2017,2018,G,6-6,213.0,"October 28, 1994",University of Kentucky
+Udonis Haslem,2004,2018,F-C,6-8,235.0,"June 9, 1980",University of Florida
+Spencer Hawes,2008,2017,C-F,7-1,245.0,"April 28, 1988",University of Washington
+Gordon Hayward,2011,2018,F-G,6-8,226.0,"March 23, 1990",Butler University
+Gerald Henderson,1980,1992,G,6-2,175.0,"January 16, 1956",Virginia Commonwealth University
+Gerald Henderson,2010,2017,G,6-5,215.0,"December 9, 1987",Duke University
+John Henson,2013,2018,C-F,6-11,229.0,"December 28, 1990",University of North Carolina
+Juan Hernangomez,2017,2018,F,6-9,230.0,"September 28, 1995",
+Willy Hernangomez,2017,2018,C,6-11,240.0,"May 27, 1994",
+Mario Hezonja,2016,2018,F-G,6-8,215.0,"February 25, 1995",
+Buddy Hield,2017,2018,G,6-4,214.0,"December 17, 1993",University of Oklahoma
+Nene Hilario,2003,2018,F-C,6-11,250.0,"September 13, 1982",
+George Hill,2009,2018,G,6-3,188.0,"May 4, 1986",Indiana University-Purdue University Indianapolis
+Solomon Hill,2014,2017,F,6-7,225.0,"March 18, 1991",University of Arizona
+Jrue Holiday,2010,2018,G,6-4,205.0,"June 12, 1990","University of California, Los Angeles"
+Justin Holiday,2013,2018,G,6-6,185.0,"April 5, 1989",University of Washington
+Rondae Hollis-Jefferson,2016,2018,F,6-7,220.0,"January 3, 1995",University of Arizona
+Richaun Holmes,2016,2018,F-C,6-10,245.0,"October 15, 1993",Bowling Green State University
+Rodney Hood,2015,2018,G-F,6-8,206.0,"October 20, 1992",Duke University
+Scotty Hopson,2014,2014,G,6-7,204.0,"August 8, 1989",University of Tennessee
+Al Horford,2008,2018,C-F,6-10,245.0,"June 3, 1986",University of Florida
+Dwight Howard,2005,2018,C,6-11,265.0,"December 8, 1985",
+Josh Huestis,2016,2018,F,6-7,230.0,"December 19, 1991",Stanford University
+Serge Ibaka,2010,2018,F-C,6-10,235.0,"September 18, 1989",
+Andre Iguodala,2005,2018,G-F,6-6,215.0,"January 28, 1984",University of Arizona
+Ersan Ilyasova,2007,2018,F,6-10,235.0,"May 15, 1987",
+Joe Ingles,2015,2018,F-G,6-8,226.0,"October 2, 1987",
+Brandon Ingram,2017,2018,F,6-9,190.0,"September 2, 1997",Duke University
+Kyrie Irving,2012,2018,G,6-3,193.0,"March 23, 1992",Duke University
+Jarrett Jack,2006,2018,G,6-3,200.0,"October 28, 1983",Georgia Institute of Technology
+Demetrius Jackson,2017,2018,G,6-1,201.0,"September 7, 1994",University of Notre Dame
+Reggie Jackson,2012,2018,G,6-3,208.0,"April 16, 1990",Boston College
+LeBron James,2004,2018,F-G,6-8,250.0,"December 30, 1984",
+Mike James,2002,2014,G,6-2,188.0,"June 23, 1975",Duquesne University
+Mike James,2018,2018,G,6-1,189.0,"August 18, 1990",Lamar University
+Al Jefferson,2005,2018,C-F,6-10,289.0,"January 4, 1985",
+Richard Jefferson,2002,2018,F,6-7,233.0,"June 21, 1980",University of Arizona
+Brandon Jennings,2010,2017,G,6-1,170.0,"September 23, 1989",
+Jonas Jerebko,2010,2018,F,6-10,231.0,"March 2, 1987",
+Amir Johnson,2006,2018,F-C,6-9,240.0,"May 1, 1987",
+Brice Johnson,2017,2018,F,6-10,230.0,"June 27, 1994",University of North Carolina
+Chris Johnson,2011,2013,C,6-11,210.0,"July 15, 1985",Louisiana State University
+Chris Johnson,2013,2016,F-G,6-6,206.0,"April 29, 1990",University of Dayton
+James Johnson,2010,2018,F,6-9,250.0,"February 20, 1987",Wake Forest University
+Joe Johnson,2002,2018,G-F,6-7,240.0,"June 29, 1981",University of Arkansas
+Stanley Johnson,2016,2018,F,6-7,245.0,"May 29, 1996",University of Arizona
+Tyler Johnson,2015,2018,G,6-4,186.0,"May 7, 1992","California State University, Fresno"
+Wesley Johnson,2011,2018,F-G,6-7,215.0,"July 11, 1987",Syracuse University
+Nikola Jokic,2016,2018,C-F,6-10,250.0,"February 19, 1995",
+Damian Jones,2017,2018,F-C,7-0,245.0,"June 30, 1995",Vanderbilt University
+Derrick Jones,2017,2018,F,6-7,190.0,"February 15, 1997","University of Nevada, Las Vegas"
+Tyus Jones,2016,2018,G,6-2,195.0,"May 10, 1996",Duke University
+DeAndre Jordan,2009,2018,C,6-11,265.0,"July 21, 1988",Texas A&M University
+Cory Joseph,2012,2018,G,6-3,193.0,"August 20, 1991",University of Texas at Austin
+Frank Kaminsky,2016,2018,F-C,7-0,242.0,"April 4, 1993",University of Wisconsin
+Enes Kanter,2012,2018,C,6-11,245.0,"May 20, 1992",
+Michael Kidd-Gilchrist,2013,2018,F,6-7,232.0,"September 26, 1993",University of Kentucky
+Sean Kilpatrick,2015,2018,G,6-4,210.0,"January 6, 1990",University of Cincinnati
+Brandon Knight,2012,2017,G,6-3,189.0,"December 2, 1991",University of Kentucky
+Kyle Korver,2004,2018,G-F,6-7,212.0,"March 17, 1981",Creighton University
+Kosta Koufos,2009,2018,C,7-0,265.0,"February 24, 1989",Ohio State University
+Mindaugas Kuzminskas,2017,2018,F,6-9,215.0,"October 19, 1989",
+Skal Labissiere,2017,2018,F,6-11,225.0,"March 18, 1996",University of Kentucky
+Jeremy Lamb,2013,2018,G-F,6-5,185.0,"May 30, 1992",University of Connecticut
+Shane Larkin,2014,2018,G,5-11,175.0,"October 2, 1992",University of Miami
+Joffrey Lauvergne,2015,2018,C-F,6-11,220.0,"September 30, 1991",
+Zach LaVine,2015,2017,G,6-5,189.0,"March 10, 1995","University of California, Los Angeles"
+Jake Layman,2017,2018,F,6-9,210.0,"March 7, 1994",University of Maryland
+Courtney Lee,2009,2018,G,6-5,200.0,"October 3, 1985",Western Kentucky University
+Alex Len,2014,2018,C,7-1,260.0,"June 16, 1993",University of Maryland
+Kawhi Leonard,2012,2018,F,6-7,230.0,"June 29, 1991",San Diego State University
+Meyers Leonard,2013,2018,C-F,7-1,245.0,"February 27, 1992",University of Illinois at Urbana-Champaign
+Jon Leuer,2012,2018,F,6-10,228.0,"May 14, 1989",University of Wisconsin
+Caris LeVert,2017,2018,G-F,6-7,203.0,"August 25, 1994",University of Michigan
+DeAndre Liggins,2012,2018,G,6-6,209.0,"March 31, 1988",University of Kentucky
+Damian Lillard,2013,2018,G,6-3,195.0,"July 15, 1990",Weber State University
+Jeremy Lin,2011,2018,G,6-3,200.0,"August 23, 1988",Harvard University
+Shaun Livingston,2005,2018,G,6-7,192.0,"September 11, 1985",
+Kevon Looney,2016,2018,F-C,6-9,220.0,"February 6, 1996","University of California, Los Angeles"
+Brook Lopez,2009,2018,C,7-0,275.0,"April 1, 1988",Stanford University
+Robin Lopez,2009,2018,C,7-0,255.0,"April 1, 1988",Stanford University
+Kevin Love,2009,2018,F,6-10,251.0,"September 7, 1988","University of California, Los Angeles"
+Kyle Lowry,2007,2018,G,6-0,205.0,"March 25, 1986",Villanova University
+Timothe Luwawu-Cabarrot,2017,2018,F,6-6,205.0,"May 9, 1995",
+Trey Lyles,2016,2018,F,6-10,234.0,"November 5, 1995",University of Kentucky
+Shelvin Mack,2012,2018,G,6-3,203.0,"April 22, 1990",Butler University
+Ian Mahinmi,2008,2018,C,6-11,250.0,"November 5, 1986",
+Thon Maker,2017,2018,F-C,7-1,216.0,"February 25, 1997",
+Boban Marjanovic,2016,2018,C,7-3,290.0,"August 15, 1988",
+Jarell Martin,2016,2018,F,6-10,239.0,"May 24, 1994",Louisiana State University
+Kevin Martin,2005,2016,G,6-7,199.0,"February 1, 1983",Western Carolina University
+Wesley Matthews,2010,2018,G,6-5,220.0,"October 14, 1986",Marquette University
+Patrick McCaw,2017,2018,G,6-7,185.0,"October 25, 1995","University of Nevada, Las Vegas"
+C.J. McCollum,2014,2018,G,6-3,190.0,"September 19, 1991",Lehigh University
+T.J. McConnell,2016,2018,G,6-2,200.0,"March 25, 1992",University of Arizona
+Chris McCullough,2016,2018,F,6-11,200.0,"February 5, 1995",Syracuse University
+K.J. McDaniels,2015,2017,G-F,6-6,205.0,"February 9, 1993",Clemson University
+Doug McDermott,2015,2018,F,6-8,225.0,"January 3, 1992",Creighton University
+JaVale McGee,2009,2018,C,7-0,270.0,"January 19, 1988","University of Nevada, Reno"
+Rodney McGruder,2017,2017,G,6-4,205.0,"July 29, 1991",Kansas State University
+Ben McLemore,2014,2018,G,6-5,195.0,"February 11, 1993",University of Kansas
+Josh McRoberts,2008,2017,F,6-10,240.0,"February 28, 1987",Duke University
+Jodie Meeks,2010,2018,G,6-4,210.0,"August 21, 1987",University of Kentucky
+Salah Mejri,2016,2018,C,7-1,245.0,"June 15, 1986",
+Gal Mekel,2014,2015,G,6-3,191.0,"March 4, 1988",Wichita State University
+Jordan Mickey,2016,2018,F,6-8,235.0,"July 9, 1994",Louisiana State University
+Khris Middleton,2013,2018,F-G,6-8,234.0,"August 12, 1991",Texas A&M University
+C.J. Miles,2006,2018,G-F,6-6,225.0,"April 18, 1987",
+Darius Miller,2013,2018,F,6-8,235.0,"March 21, 1990",University of Kentucky
+Patty Mills,2010,2018,G,6-0,185.0,"August 11, 1988",Saint Mary's College of California
+Paul Millsap,2007,2018,F,6-8,246.0,"February 10, 1985",Louisiana Tech University
+Nikola Mirotic,2015,2018,F,6-10,220.0,"February 11, 1991",
+Greg Monroe,2011,2018,C-F,6-11,265.0,"June 4, 1990",Georgetown University
+Luis Montero,2016,2016,G,6-7,185.0,"April 6, 1993",Westchester CC
+E'Twaun Moore,2012,2018,G,6-4,191.0,"February 28, 1989",Purdue University
+Eric Moreland,2015,2018,F-C,6-10,238.0,"December 24, 1991",Oregon State University
+Marcus Morris,2012,2018,F,6-9,235.0,"September 2, 1989",University of Kansas
+Markieff Morris,2012,2018,F,6-10,245.0,"September 2, 1989",University of Kansas
+Timofey Mozgov,2011,2018,C,7-1,275.0,"July 16, 1986",
+Emmanuel Mudiay,2016,2018,G,6-5,200.0,"March 5, 1996",
+Shabazz Muhammad,2014,2018,F-G,6-6,223.0,"November 13, 1992","University of California, Los Angeles"
+Dejounte Murray,2017,2018,G,6-5,170.0,"September 19, 1996",University of Washington
+Jamal Murray,2017,2018,G,6-4,207.0,"February 23, 1997",University of Kentucky
+Mike Muscala,2014,2018,F-C,6-11,240.0,"July 1, 1991",Bucknell University
+Larry Nance,1982,1994,F-C,6-10,205.0,"February 12, 1959",Clemson University
+Larry Nance,2016,2018,F,6-9,230.0,"January 1, 1993",University of Wyoming
+Shabazz Napier,2015,2018,G,6-1,175.0,"July 14, 1991",University of Connecticut
+Jameer Nelson,2005,2018,G,6-0,190.0,"February 9, 1982",Saint Joseph's University
+Raul Neto,2016,2018,G,6-1,179.0,"May 19, 1992",
+Georges Niang,2017,2017,F,6-8,230.0,"June 17, 1993",Iowa State University
+Andrew Nicholson,2013,2017,F,6-9,250.0,"December 8, 1989",St. Bonaventure University
+Joakim Noah,2008,2018,C,6-11,230.0,"February 25, 1985",University of Florida
+Nerlens Noel,2015,2018,C-F,6-11,228.0,"April 10, 1994",University of Kentucky
+Lucas Nogueira,2015,2018,C,7-0,241.0,"July 26, 1992",
+Dirk Nowitzki,1999,2018,F,7-0,245.0,"June 19, 1978",
+Jusuf Nurkic,2015,2018,C,7-0,280.0,"August 23, 1994",
+David Nwaba,2017,2018,G,6-4,209.0,"January 14, 1993","California Polytechnic State University, San Luis Obispo"
+Johnny O'Bryant,2015,2018,F-C,6-9,257.0,"June 1, 1993",Louisiana State University
+Kyle O'Quinn,2013,2018,F-C,6-10,250.0,"March 26, 1990",Norfolk State University
+Daniel Ochefu,2017,2017,C,6-11,245.0,"December 15, 1993",Villanova University
+Emeka Okafor,2005,2013,C-F,6-10,252.0,"September 28, 1982",University of Connecticut
+Jahlil Okafor,2016,2018,C-F,6-11,275.0,"December 15, 1995",Duke University
+Victor Oladipo,2014,2018,G,6-4,210.0,"May 4, 1992",Indiana University
+Kelly Olynyk,2014,2018,C-F,7-0,238.0,"April 19, 1991",Gonzaga University
+Chinanu Onuaku,2017,2017,F-C,6-10,245.0,"November 1, 1996",University of Louisville
+Kelly Oubre,2016,2018,F,6-7,205.0,"December 9, 1995",University of Kansas
+Zaza Pachulia,2004,2018,C,6-11,270.0,"February 10, 1984",
+Georgios Papagiannis,2017,2018,C,7-1,240.0,"July 3, 1997",
+Jabari Parker,2015,2017,F,6-8,250.0,"March 15, 1995",Duke University
+Tony Parker,2002,2018,G,6-2,185.0,"May 17, 1982",
+Chandler Parsons,2012,2018,F,6-10,230.0,"October 25, 1988",University of Florida
+Patrick Patterson,2011,2018,F,6-9,230.0,"March 14, 1989",University of Kentucky
+Chris Paul,2006,2018,G,6-0,175.0,"May 6, 1985",Wake Forest University
+Cameron Payne,2016,2017,G,6-3,185.0,"August 8, 1994",Murray State University
+Elfrid Payton,2015,2018,G,6-4,185.0,"February 22, 1994",University of Louisiana at Lafayette
+Gary Payton,1991,2007,G,6-4,180.0,"July 23, 1968",Oregon State University
+Gary Payton,2017,2018,G,6-3,190.0,"December 1, 1992",Oregon State University
+Nikola Pekovic,2011,2016,C,6-11,307.0,"January 3, 1986",
+Paul Pierce,1999,2017,F-G,6-7,235.0,"October 13, 1977",University of Kansas
+Tibor Pleiss,2016,2016,C,7-3,256.0,"November 2, 1989",
+Marshall Plumlee,2017,2017,C,7-0,250.0,"July 14, 1992",Duke University
+Mason Plumlee,2014,2018,C-F,6-11,245.0,"March 5, 1990",Duke University
+Miles Plumlee,2013,2018,C-F,6-11,249.0,"September 1, 1988",Duke University
+Jakob Poeltl,2017,2018,C,7-0,248.0,"October 15, 1995",University of Utah
+Quincy Pondexter,2011,2018,G-F,6-7,220.0,"March 10, 1988",University of Washington
+Otto Porter,2014,2018,F,6-8,198.0,"June 3, 1993",Georgetown University
+Bobby Portis,2016,2018,F,6-11,230.0,"February 10, 1995",University of Arkansas
+Kristaps Porzingis,2016,2018,F-C,7-3,240.0,"August 2, 1995",
+Dwight Powell,2015,2018,F-C,6-11,240.0,"July 20, 1991",Stanford University
+Norman Powell,2016,2018,G,6-4,215.0,"May 25, 1993","University of California, Los Angeles"
+Alex Poythress,2017,2018,F,6-7,238.0,"September 6, 1993",University of Kentucky
+Ronnie Price,2006,2017,G,6-2,190.0,"June 21, 1983",Utah Valley State College
+Miroslav Raduljica,2014,2015,C,7-0,250.0,"January 5, 1988",
+Chasson Randle,2017,2017,G,6-2,185.0,"February 5, 1993",Stanford University
+Julius Randle,2015,2018,F-C,6-9,250.0,"November 29, 1994",University of Kentucky
+Zach Randolph,2002,2018,F-C,6-9,260.0,"July 16, 1981",Michigan State University
+J.J. Redick,2007,2018,G,6-4,190.0,"June 24, 1984",Duke University
+Willie Reed,2016,2018,F-C,6-10,220.0,"May 16, 1990",Saint Louis University
+Josh Richardson,2016,2018,G,6-6,200.0,"September 15, 1993",University of Tennessee
+Malachi Richardson,2017,2018,G,6-6,205.0,"January 5, 1996",Syracuse University
+Austin Rivers,2013,2018,G,6-4,200.0,"August 1, 1992",Duke University
+Andre Roberson,2014,2018,G-F,6-7,210.0,"December 4, 1991",University of Colorado
+Glenn Robinson,1995,2005,F,6-7,225.0,"January 10, 1973",Purdue University
+Glenn Robinson,2015,2017,G-F,6-6,222.0,"January 8, 1994",University of Michigan
+Rajon Rondo,2007,2018,G,6-1,186.0,"February 22, 1986",University of Kentucky
+Derrick Rose,2009,2018,G,6-3,190.0,"October 4, 1988",University of Memphis
+Terrence Ross,2013,2018,F-G,6-7,206.0,"February 5, 1991",University of Washington
+Terry Rozier,2016,2018,G,6-2,190.0,"March 17, 1994",University of Louisville
+Ricky Rubio,2012,2018,G,6-4,194.0,"October 21, 1990",
+Brandon Rush,2009,2017,G-F,6-6,220.0,"July 7, 1985",University of Kansas
+D'Angelo Russell,2016,2018,G,6-5,195.0,"February 23, 1996",Ohio State University
+Domantas Sabonis,2017,2018,F-C,6-11,240.0,"May 3, 1996",Gonzaga University
+Larry Sanders,2011,2017,C-F,6-11,235.0,"November 21, 1988",Virginia Commonwealth University
+Dario Saric,2017,2018,F,6-10,223.0,"April 8, 1994",
+Tomas Satoransky,2017,2018,G,6-7,210.0,"October 30, 1991",
+Dennis Schroder,2014,2018,G,6-1,172.0,"September 15, 1993",
+Mike Scott,2013,2018,F,6-8,237.0,"July 16, 1988",University of Virginia
+Thabo Sefolosha,2007,2018,G-F,6-7,220.0,"May 2, 1984",
+Wayne Selden,2017,2018,G-F,6-5,230.0,"September 30, 1994",University of Kansas
+Ramon Sessions,2008,2018,G,6-3,190.0,"April 11, 1986","University of Nevada, Reno"
+Iman Shumpert,2012,2018,G,6-5,220.0,"June 26, 1990",Georgia Institute of Technology
+Pascal Siakam,2017,2018,F,6-9,230.0,"February 4, 1994",New Mexico State University
+Jonathon Simmons,2016,2018,G-F,6-6,195.0,"September 14, 1989",University of Houston
+Kyle Singler,2013,2018,F,6-8,228.0,"May 4, 1988",Duke University
+Marcus Smart,2015,2018,G,6-4,220.0,"March 6, 1994",Oklahoma State University
+Ish Smith,2011,2018,G,6-0,175.0,"July 5, 1988",Wake Forest University
+J.R. Smith,2005,2018,G-F,6-6,225.0,"September 9, 1985",
+Jason Smith,2008,2018,F-C,7-0,245.0,"March 2, 1986",Colorado State University
+Josh Smith,2005,2018,F,6-9,225.0,"December 5, 1985",
+Tony Snell,2014,2018,G-F,6-7,200.0,"November 10, 1991",University of New Mexico
+Marreese Speights,2009,2018,C-F,6-10,255.0,"August 4, 1987",University of Florida
+Nik Stauskas,2015,2018,G,6-6,205.0,"October 7, 1993",University of Michigan
+Lance Stephenson,2011,2018,G-F,6-5,230.0,"September 5, 1990",University of Cincinnati
+Diamond Stone,2017,2017,C,6-11,255.0,"February 10, 1997",University of Maryland
+Julyan Stone,2012,2018,G,6-6,200.0,"December 7, 1988",University of Texas at El Paso
+Isaiah Taylor,2017,2018,G,6-3,170.0,"July 11, 1994",University of Texas at Austin
+Jeff Teague,2010,2018,G,6-2,186.0,"June 10, 1988",Wake Forest University
+Mirza Teletovic,2013,2018,F,6-9,242.0,"September 18, 1985",
+Garrett Temple,2010,2018,G,6-6,195.0,"May 8, 1986",Louisiana State University
+Jason Terry,2000,2018,G,6-2,185.0,"September 15, 1977",University of Arizona
+Isaiah Thomas,2012,2017,G,5-9,185.0,"February 7, 1989",University of Washington
+Lance Thomas,2012,2018,F,6-8,235.0,"April 24, 1988",Duke University
+Jason Thompson,2009,2016,F-C,6-11,250.0,"July 21, 1986",Rider University
+Klay Thompson,2012,2018,G-F,6-7,215.0,"February 8, 1990",Washington State University
+Tristan Thompson,2012,2018,F-C,6-9,238.0,"March 13, 1991",University of Texas at Austin
+Marcus Thornton,2010,2017,G,6-4,205.0,"June 5, 1987",Louisiana State University
+Anthony Tolliver,2009,2018,F-C,6-8,240.0,"June 1, 1985",Creighton University
+Axel Toupane,2016,2017,G-F,6-7,197.0,"July 23, 1992",
+Karl-Anthony Towns,2016,2018,C-F,7-0,244.0,"November 15, 1995",University of Kentucky
+P.J. Tucker,2007,2018,F,6-6,245.0,"May 5, 1985",University of Texas at Austin
+Evan Turner,2011,2018,G,6-7,220.0,"October 27, 1988",Ohio State University
+Myles Turner,2016,2018,C-F,6-11,243.0,"March 24, 1996",University of Texas at Austin
+Ekpe Udoh,2011,2018,C-F,6-10,240.0,"May 20, 1987",Baylor University
+Beno Udrih,2005,2017,G,6-3,205.0,"July 5, 1982",
+Tyler Ulis,2017,2018,G,5-10,150.0,"January 5, 1996",University of Kentucky
+Jonas Valanciunas,2013,2018,C,7-0,265.0,"May 6, 1992",
+Denzel Valentine,2017,2018,G,6-6,212.0,"November 16, 1993",Michigan State University
+Fred VanVleet,2017,2018,G,6-0,195.0,"February 25, 1994",Wichita State University
+Anderson Varejao,2005,2017,F-C,6-10,273.0,"September 28, 1982",
+Rashad Vaughn,2016,2018,G,6-6,202.0,"August 16, 1996","University of Nevada, Las Vegas"
+Noah Vonleh,2015,2018,F,6-10,240.0,"August 24, 1995",Indiana University
+Nikola Vucevic,2012,2018,C,7-0,260.0,"October 24, 1990",University of Southern California
+Dwyane Wade,2004,2018,G,6-4,220.0,"January 17, 1982",Marquette University
+Dion Waiters,2013,2018,G,6-4,225.0,"December 10, 1991",Syracuse University
+Kemba Walker,2012,2018,G,6-1,172.0,"May 8, 1990",University of Connecticut
+John Wall,2011,2018,G,6-4,195.0,"September 6, 1990",University of Kentucky
+Taurean Waller-Prince,2017,2018,F,6-8,220.0,"March 22, 1994",Baylor University
+T.J. Warren,2015,2018,F,6-8,230.0,"September 5, 1993",North Carolina State University
+C.J. Watson,2008,2017,G,6-2,175.0,"April 17, 1984",University of Tennessee
+Travis Wear,2015,2015,F,6-10,230.0,"September 21, 1990","University of California, Los Angeles"
+Briante Weber,2016,2018,G,6-2,165.0,"December 29, 1992",Virginia Commonwealth University
+Martell Webster,2006,2015,G-F,6-7,230.0,"December 4, 1986",
+David West,2004,2018,F,6-9,250.0,"August 29, 1980",Xavier University
+Russell Westbrook,2009,2018,G,6-3,200.0,"November 12, 1988","University of California, Los Angeles"
+Okaro White,2017,2018,F,6-8,204.0,"August 13, 1992",Florida State University
+Isaiah Whitehead,2017,2018,G,6-4,213.0,"March 8, 1995",Seton Hall University
+Hassan Whiteside,2011,2018,C,7-0,265.0,"June 13, 1989",Marshall University
+Andrew Wiggins,2015,2018,F-G,6-8,199.0,"February 23, 1995",University of Kansas
+Damien Wilkins,2005,2018,F-G,6-6,225.0,"January 11, 1980",University of Georgia
+Alan Williams,2016,2017,F-C,6-8,260.0,"January 28, 1993","University of California, Santa Barbara"
+Deron Williams,2006,2017,G,6-3,200.0,"June 26, 1984",University of Illinois at Urbana-Champaign
+Derrick Williams,2012,2017,F,6-8,240.0,"May 25, 1991",University of Arizona
+Lou Williams,2006,2018,G,6-1,175.0,"October 27, 1986",
+Marvin Williams,2006,2018,F,6-9,237.0,"June 19, 1986",University of North Carolina
+Troy Williams,2017,2018,F,6-7,218.0,"December 30, 1994",Indiana University
+Justise Winslow,2016,2018,F,6-7,225.0,"March 26, 1996",Duke University
+Jeff Withey,2014,2018,C,7-0,231.0,"March 7, 1990",University of Kansas
+Nate Wolters,2014,2018,G,6-4,190.0,"May 15, 1991",South Dakota State University
+Brandan Wright,2008,2018,F-C,6-10,210.0,"October 5, 1987",University of North Carolina
+Delon Wright,2016,2018,G,6-5,183.0,"April 26, 1992",University of Utah
+Joe Young,2016,2018,G,6-2,180.0,"June 27, 1992",University of Oregon
+Michael Young,1985,1990,F-G,6-7,220.0,"January 2, 1961",University of Houston
+Nick Young,2008,2018,G-F,6-7,210.0,"June 1, 1985",University of Southern California
+Thaddeus Young,2008,2018,F,6-8,221.0,"June 21, 1988",Georgia Institute of Technology
+Cody Zeller,2014,2018,C-F,7-0,240.0,"October 5, 1992",Indiana University
+Tyler Zeller,2013,2018,F-C,7-0,253.0,"January 17, 1990",University of North Carolina
+Stephen Zimmerman,2017,2017,C,7-0,240.0,"September 9, 1996","University of Nevada, Las Vegas"
+Paul Zipser,2017,2018,G-F,6-8,215.0,"February 18, 1994",
+Ivica Zubac,2017,2018,C,7-1,265.0,"March 18, 1997",
