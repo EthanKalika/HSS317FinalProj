@@ -3,9 +3,9 @@ library(usethis)
 library(tidyverse)
 library(devtools)
 
-player_data = read.csv("player_data.csv")
-Players = read.csv("Players.csv")
-Stats = read.csv("Seasons_Stats.csv")
+player_data = read.csv("modifiedData/player_data_2.csv")
+Players = read.csv("modifiedData/Players_2.csv")
+Stats = read.csv("modifiedData/Seasons_Stats_2.csv")
 Stats_17 = Stats[-c(1:24691),]
 count = 1
 for (years in Stats$Year){
