@@ -1,0 +1,33 @@
+---
+title: "HSS 317 Final Project"
+author: "Julieta Caroppo"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+Season_Stats <- read.csv("Seasons_Stats.csv")
+Players <- read.csv("Players.csv")
+player_data <- read.csv("player_data.csv")
+NBA_season1718_salary <- read.csv("NBA_season1718_salary.csv")
+
+summary(Season_Stats)
+head(Season_Stats)
+
+summary(Players)
+head(Players)
+
+summary(player_data)
+head(player_data)
+
+summary(NBA_season1718_salary)
+head(NBA_season1718_salary)
+
+dim(Players)
+dim(player_data)
+```
+
